@@ -11,7 +11,7 @@ This project uses 4 LDR sensors and 2 servo motors to automatically track the br
 - Solar Panel: Demonstrates how the tracker aligns the panel with sunlight.
 - Breadboard and Jumper Wires: For making temporary connections.
 
-##Working Principle
+## Working Principle
 The arduino based sun tracking solar panel project works on the principle of comparing light intensities to determine the sun’s position. Here’s how it operates:
 
 1. Light Detection:
